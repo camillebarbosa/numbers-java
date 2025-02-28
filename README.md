@@ -1,11 +1,11 @@
 #Java Exercise - Cálculo de Média, Maior e Menor Número
 
 ## Descrição
-Este projeto desenvolvido em Java tem como objetivo solicitar a entrada de 10 números ao usuário. Após inserir os números, o programa irá:
-1. Mostrar ao usuário todos os 10 números inseridos.
-2. Calcular a media.
-3. Identificar o maior número.
-4. Identificar o menor número.
+Este projeto desenvolvido em Java tem como objetivo solicitar a entrada de 10 números ao usuário e armazená-los em um array. Logo em seguida, o programa irá calcular e exibir:
+1. Todos os 10 números digitados.
+2. A média.
+3. O maior e menor número.
+
 
 O programa também lida com entradas inválidas, emitindo um aviso caso o usuário digite algum valor não inteiro.
 
