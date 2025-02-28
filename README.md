@@ -12,9 +12,10 @@ O programa também lida com entradas inválidas, emitindo um aviso caso o usuár
 ## Como Usar
 
 1. Utilize o git para clonar o repositório e utilize o compilador jaac para criar o binário:
-
-'''bash
+   
+'''
 git clone https://github.com/camillebarbosa/numbers-java.git
 cd javaexercise
 javac Javaexercise.java
 java Javaexercise
+'''
