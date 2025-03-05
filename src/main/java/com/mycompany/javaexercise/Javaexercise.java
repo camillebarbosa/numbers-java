@@ -57,8 +57,8 @@ public class Javaexercise {
         System.out.print("\nOs numeros digitados foram: ");
         System.out.println(Arrays.toString(numbers));
         //Ou podemos fazer com um for
-        //for (int i = 0; i < numerosTamanho; i++){
-        // System.out.println("Numero" + " " + (i+1) + ": " + numeros[i]);
+        //for (int i = 0; i < numbersLength; i++){
+        // System.out.println("Numero" + " " + (i+1) + ": " + numbers[i]);
         //}
         System.out.println("\nA media e: " + average);
         System.out.println("\nO maior numero: " + maxNumber);
